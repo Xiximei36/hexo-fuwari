@@ -7,7 +7,7 @@ import type {
 import { LinkPreset } from './types/config'
 
 export const siteConfig: SiteConfig = {
-  title: 'Xiximei Blog',
+  title: "Xiximei's Blog",
   subtitle: 'My personal blog',
   lang: 'zh_CN',         // 'en', 'zh_CN', 'zh_TW', 'ja', 'ko'
   themeColor: {
@@ -64,7 +64,7 @@ export const profileConfig: ProfileConfig = {
     },
     {
       name: 'TG',
-      icon: 'fa-regular:paper-plane',
+      icon: 'fa6-brands:telegram',
       url: 'https://t.me/xiximei36',
     },
     {
