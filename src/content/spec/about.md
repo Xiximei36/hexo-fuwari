@@ -1,7 +1,7 @@
 # 关于
 这是一篇简单的自我介绍 [Xiximei](https://github.com/Xiximei36).
 
-::github{repo="Xiximei36"}
+::github{repo="Xiximei36/hexo-fuwari"}
 
 > ### 本站所使用的图片来源
 > - [Unsplash](https://unsplash.com/)
